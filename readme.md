@@ -1,2 +1,2 @@
 # ToDo List:
-1. (goal) To upload Windows.zip and Web.zip instead of Windows and Web. | (process) Convert \lib\vineel\output\Windows and Web into Windows.zip and Web.zip. | Then add Windows and Web to .gitignore.
+1. (goal) To upload Windows.zip and Web.zip instead of Windows and Web. | (process) Convert \lib\vineel\output\Windows and Web into Windows.zip and Web.zip. Then add Windows and Web to .gitignore.
